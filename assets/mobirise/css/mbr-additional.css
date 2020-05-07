@@ -1139,6 +1139,20 @@ section.lazy-placeholder:after {
 .cid-rX3Nqz1F5Z .card {
   padding-bottom: 1.5rem;
 }
+.cid-rX3Nqz1F5Z .testimonial-icon {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 0;
+  margin: auto;
+}
+.cid-rX3Nqz1F5Z .testimonial-icon img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
 .cid-WabFGLbayO {
   background-color: #ffffff;
 }
@@ -1278,7 +1292,7 @@ section.lazy-placeholder:after {
   background-color: #fff4e8;
 }
 .cid-rX4k9Xpq8o .mbr-section-subtitle {
-  color: #149dcc;
+  color: #0b83d9;
 }
 .cid-rX4k9Xpq8o .media-container-row {
   -webkit-flex-wrap: wrap;
@@ -1293,7 +1307,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rX4k9Xpq8o .mbr-author-name {
-  color: #767676;
+  color: #14cca3;
 }
 .cid-rX4k9Xpq8o .mbr-testimonial .panel-item {
   background-color: #ffffff;
@@ -1309,7 +1323,7 @@ section.lazy-placeholder:after {
   height: 120px;
   margin-bottom: 1.6rem;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 .cid-rX4k9Xpq8o .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
@@ -1354,7 +1368,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rX4n4h1Iub .mbr-author-name {
-  color: #767676;
+  color: #14cca3;
 }
 .cid-rX4n4h1Iub .mbr-testimonial .panel-item {
   background-color: #ffffff;
@@ -1370,7 +1384,7 @@ section.lazy-placeholder:after {
   height: 120px;
   margin-bottom: 1.6rem;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 0%;
 }
 .cid-rX4n4h1Iub .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
@@ -1445,6 +1459,9 @@ section.lazy-placeholder:after {
     padding: 0 2rem 2rem 2rem !important;
   }
 }
+.cid-rX4pg0UbYx .user_name {
+  color: #14cca3;
+}
 .cid-rX4qJEmezp {
   background-color: #149dcc;
 }
@@ -1475,6 +1492,9 @@ section.lazy-placeholder:after {
   .cid-rX4qQumK2m .iconfont-wrapper {
     display: none;
   }
+}
+.cid-rX4qQumK2m H2 {
+  color: #ffffff;
 }
 .cid-rX4rkrXf9K {
   padding-top: 30px;
@@ -2029,7 +2049,7 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-rX4P0XnDgU .mbr-text {
-  color: #767676;
+  color: #465052;
 }
 .cid-rX4TZLA4t1 {
   background-color: #0b83d9;
